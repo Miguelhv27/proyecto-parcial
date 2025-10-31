@@ -45,3 +45,12 @@ El archivo de configuración en formato YAML también se versiona, de modo que c
 La arquitectura propuesta está diseñada para escalar horizontalmente y adaptarse a distintos volúmenes de datos. La etapa de ingesta puede ejecutarse en paralelo, distribuyendo las fuentes en diferentes procesos o workers. A medida que aumente la carga de datos, el pipeline puede migrarse fácilmente a entornos cloud, utilizando servicios como AWS S3, GCP BigQuery o Azure Data Lake.  
 
 El procesamiento de datos se optimiza mediante el uso de archivos Parquet, que reducen el tamaño de almacenamiento y mejoran la velocidad de lectura. Ademas, el orquestador implementado en Python podría integrarse con herramientas de mayor capacidad como Apache Airflow o Prefect para programar y monitorear las tareas de manera distribuida. De esta forma, el pipeline puede crecer en complejidad y volumen sin perder rendimiento.
+
+
+---
+
+## Test
+
+![Test captura](./images/testimage.jpg)
+
+---
