@@ -1,0 +1,13 @@
+product_id,title,category,total_quantity,avg_price,estimated_revenue,estimated_cost,estimated_profit,profit_margin,sales_category
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,5,695.0,3475.0,2085.0,1390.0,0.4,bajas
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,4,64.99,259.96,155.97599999999997,103.98400000000001,0.4000000000000001,bajas
+3,Mens Cotton Jacket,men's clothing,3,55.99,167.97,100.782,67.188,0.4,bajas
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,3,109.95,329.85,197.91,131.94000000000003,0.4000000000000001,bajas
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,2,599.0,1198.0,718.8,479.20000000000005,0.4,bajas
+6,Solid Gold Petite Micropave ,jewelery,2,168.0,336.0,201.6,134.4,0.4,bajas
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,2,109.95,219.9,131.94,87.96000000000001,0.4,bajas
+2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,1,22.3,22.3,13.38,8.92,0.39999999999999997,bajas
+4,Mens Casual Slim Fit,men's clothing,1,15.99,15.99,9.594,6.396000000000001,0.4,bajas
+7,White Gold Plated Princess,jewelery,1,9.99,9.99,5.994,3.9960000000000004,0.4,bajas
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,1,114.99,114.99,68.994,45.995999999999995,0.39999999999999997,bajas
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,1,149.99,149.99,89.994,59.99600000000001,0.4,bajas
