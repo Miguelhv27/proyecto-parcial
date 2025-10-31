@@ -51,6 +51,6 @@ El procesamiento de datos se optimiza mediante el uso de archivos Parquet, que r
 
 ## Test
 
-![Test captura](./images/testimage.jpg)
+![Test captura](./images/testimage.png)
 
 ---
